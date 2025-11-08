@@ -1,9 +1,23 @@
 .vscode/
+
 luogu/*
 !luogu/*/
 !luogu/*.*
+
+# gdb history
 .gdb_history
+
+# 洛谷输入输出 dump
 *.in
 *.out
+
+# 对拍
 diff.py
 test*
+
+# IDA
+*.idb
+*.i64
+*.id*
+*.nam
+*.til

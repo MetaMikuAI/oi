@@ -2,3 +2,8 @@
 luogu/*
 !luogu/*/
 !luogu/*.*
+.gdb_history
+*.in
+*.out
+diff.py
+test*
